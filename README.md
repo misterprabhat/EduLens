@@ -125,11 +125,9 @@ python --version
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/edulens.git
+git clone https://github.com/misterprabhat/EduLens
 cd edulens
 ```
-
-> **Note:** Replace `your-username` with your GitHub username and use the actual repository URL.
 
 ### 3. Install Dependencies
 
